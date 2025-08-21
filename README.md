@@ -11,7 +11,7 @@
 ## 🔗 Development Link
 
 🧪 You can try the live development build here:  
-👉 [https://dhanrakshak.vercel.app](https://dhanrakshak.vercel.app)
+👉 [http://34.100.152.79:3000](https://dhanrakshak.vercel.app)
 
 ---
 
