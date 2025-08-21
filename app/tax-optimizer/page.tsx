@@ -1183,3 +1183,5 @@ export default function ReceiptUploadPage() {
     </div>
   );
 }
+
+export const dynamic = 'force-dynamic';
