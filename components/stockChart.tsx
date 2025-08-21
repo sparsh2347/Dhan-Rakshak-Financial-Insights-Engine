@@ -142,8 +142,6 @@ export default function StockChart({ rawChartData }: { rawChartData: any }) {
             fill="#d0e3fa"
             name="Volume"
             barSize={10}
-            barCategoryGap="10%"
-            barGap={2}
           />
 
           {/* Stock Price Line */}

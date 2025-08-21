@@ -31,7 +31,7 @@ type StockData = {
 export default function Stock({ StockDate }: { StockDate: any }) {
   const [expanded, setExpanded] = useState(false);
   const data = StockDate;
-  console.log(data);
+  // console.log(data);
 
   return (
     <div className="flex flex-col items-start gap-3 text-white p-6 rounded-lg w-[90vw] min-h-[400px] bg-[#C2DEDBE5] ">
