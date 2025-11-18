@@ -8,13 +8,6 @@
 
 ---
 
-## 🔗 Development Link
-
-🧪 You can try the live development build here:  
-👉 [http://34.100.152.79:3000](https://dhanrakshak.vercel.app)
-
----
-
 ## 🧠 Problem We’re Solving
 
 💸 **60% of Indians** don’t track expenses regularly  
